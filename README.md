@@ -1,6 +1,10 @@
 # my-projects
-first i upload the easypaisa releated project i worked on in 3rd semester i used some basics concept of DSA.
-2nd i uppload the mysql project file which i used the basics queryies of database and Used the diagrams of  ERD and EERD. 
-3rd i uppload the Resturant project report which we did in 2nd semester in java  GUI based, which  we used the swing libraries.
-4th i uppload  the programming fundamental's project which we did in 1st semester console based project   in c++ we used only basics.
-5th i upplaod  our current web based project we are working on this currently we only used the html and CSS later we we will use the JavaScript and PHP this is our 5th semester project.
+Easypaisa Project (3rd Semester): I worked on a project related to Easypaisa during my 3rd semester. This project involved implementing basic concepts of Data Structures and Algorithms (DSA).
+
+MySQL Project: I uploaded a MySQL project file in which I utilized basic database queries and designed diagrams, including Entity Relationship Diagrams (ERD) and Enhanced Entity Relationship Diagrams (EERD).
+
+Restaurant Management System (2nd Semester): This was a Java GUI-based project developed in the 2nd semester. The project utilized Swing libraries to create a functional and user-friendly interface for restaurant management.
+
+Programming Fundamentals Project (1st Semester): I uploaded a console-based project developed in C++ during my 1st semester. This project focused on implementing basic programming concepts.
+
+Web-Based Project (5th Semester): Currently, I am working on a web-based project as part of my 5th semester. At this stage, we have only implemented HTML and CSS. We plan to incorporate JavaScript and PHP in the later phases of development.
